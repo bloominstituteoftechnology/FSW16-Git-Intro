@@ -1,2 +1,14 @@
 # FSW16-Git-Intro
 This is for FSW 16 to learn how to git
+
+Hooray! I think I did it right.
+
+I am Karen L. Yearwood.
+
+Three words that describe me: determined, funny, creative.
+
+I have a cat, but I love all animals, big and small, hairy or scaly.
+
+I love origami.  I also make jewelry.
+
+I really proud of myself for working this out!
